@@ -1,6 +1,6 @@
-# Saeed Portfolio
+# Portfolio Website
 
-Animated Next.js portfolio for Saeed, a QA Engineer offering manual testing,
+Animated Next.js portfolio for a QA Engineer offering manual testing,
 automation testing, QA strategy, defect reporting, and release validation
 services.
 
